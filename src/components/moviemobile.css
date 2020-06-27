@@ -1,0 +1,5 @@
+@media screen and (min-width:520px){ 
+.card{
+    max-width: 300px;
+}
+}

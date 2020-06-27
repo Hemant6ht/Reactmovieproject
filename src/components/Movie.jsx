@@ -1,4 +1,5 @@
 import React from "react";
+import './moviemobile.css';
 
 function Movie(props){
     return(
